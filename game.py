@@ -8,5 +8,9 @@ rooms = {
     "kitchen":{
         "description": "",
         "exits":{"south":"hall"}
+    },
+    "hall":{
+        "description":"",
+        "exits":{"west":"door"}
     }
-    }
+    } 
