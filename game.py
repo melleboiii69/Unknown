@@ -17,4 +17,4 @@ rooms = {
         "description":"",
         "exits":
     }
-    } 
+    }   
