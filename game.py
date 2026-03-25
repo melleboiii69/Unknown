@@ -12,5 +12,9 @@ rooms = {
     "hall":{
         "description":"",
         "exits":{"west":"door"}
+    },
+    "door":{
+        "description":"",
+        "exits":
     }
     } 
